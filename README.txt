@@ -1,3 +1,4 @@
+Curso Introducción a Soliditi Eth-Kipu (Solange Gueiros)
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
